@@ -28,6 +28,7 @@ RUN apt-get update && \
   php5-gd \
   php5-pgsql \
   php5-sqlite \
+  php5-mysql \
   graphicsmagick \
   libgraphicsmagick1-dev
 
