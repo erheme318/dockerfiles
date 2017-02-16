@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM erheme318/php
+FROM php:5.6
 
 MAINTAINER Erkhembayar Gantulga <erheme318@gmail.com>
 
